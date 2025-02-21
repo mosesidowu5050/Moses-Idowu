@@ -1,0 +1,177 @@
+Palindrome Integer
+Stage 1
+1. Get user to enter a three digit integer
+2. Determines it is a palindrome integer
+3. Display result
+
+Stage 2
+1. Get user to enter "Three digit"
+2. Collect the input
+3. Store the input as "Three digit numbers"
+4. Calculate the three digit numbers by using % modulus to extract digits, / operator to remove the extracted digit.
+5. Three digit numbers % 10 
+6. Store the remainder as "Extraction1"
+
+7. Three digit numbers / 10 
+8. Store the extracted as "Number1"
+
+9. Extraction1 % 10 
+10. Store the remainder as "Extraction2"
+
+11. Extraction1 / 10 
+12. Store the extracted as "Number2"
+
+13 Estraction2 % 10 
+14. Store the remainder as "Extraction3"
+15. If Extraction1 value is equal to Extraction3 value then it is a Palindrome.
+16. Else it is not a Palindrome.
+
+
+
+Arithmetic
+Stage One
+1. Get user to enter two integers
+2. Print the square of each, the sum of their square, the difference of the squares.
+3. Display result.
+
+Stage Two
+1. Get user to enter "First Integer"
+2. Collect input
+3. Store input as "Num1"
+4. Get user to enter "Second Integer"
+5. Collect input
+6. Store input as "Num2"
+7. Calculate Num1 square by multiply Num1 x Num1 
+8. Store the result as "Num1 Square"
+9. Calculate Num2 square by multiply Num2 x Num2 
+10. Store the calculated value as "Num2 Square"
+11. Calculate the sum of their square by adding Num1 Square + Num2 Square
+12. Store the calculated as "Sum of their squares"
+13. Calculate the difference of the square by subtracting Num1 Square - Num2 Square
+14. Store the calculated as "Difference of the square"
+15. Display "Num1 Square"
+16. Display "Num2 Square"
+17. Display "Sum of their squares"
+18. Display "Difference of the square"
+
+
+
+Arithmetic, Smallest and Largest
+Stage 1.
+1. Get user to enter three integers
+2. Display sum, average, product, smallest and largest of the numbers.
+3. Display result.
+
+Stage 2.
+1. Get user to enter "First Integer"
+2. Collect the input
+3. Store input as "Integer1"
+4  Get user to enter "Second Integer"
+5. Collect the input
+6. Store input as "Integer2"
+7  Get user to enter "Third Integer"
+8. Collect the input
+9. Store input as "Integer3"
+10.Calculate the sum by adding Integer1 + Integer2 + Integer3
+11.Store the calculated value as "Sum"
+12.Calculate the average by adding Integer1 + Integer2 + Integer3 divided by 3 total numbers of integer stored.
+13.Store the calculated value as "Average"
+14.Calculate the product by multiplying Integer1 x Integer2 x Integer3
+15.Store the calculated value as "Product"
+16. Display the "Largest"
+17. Display the "Smallest"
+
+
+
+Sum the digits in an integer
+Stage 1
+1. Get user to enter an integer between 0 and 1000
+2. Adds all digits in the integer
+3. Display result
+
+Stage 2
+1. Get user to enter an "Integer"
+2. Collect the input
+3. Store the input as "Integer"
+4. Sum the digit of the integer by using % to extract digits, / operator to remove the extracted digit.
+5. Integer % 10 
+6. Store the remainder as "Extraction1"
+7. Integer / 10 
+8. Store the number as "Number1"
+9. Integer % 10 
+10. Store the remainder as "Extraction2"
+11. Integer / 10 
+12. Store the number as "Number2"
+13. Integer % 10 
+14. Store the remainder as "Extraction3"
+15. Calculate the sum of the digits by adding Extraction1 + Extraction2 + Extraction3
+16. Store the calculated value as the "Sum of the digits"
+16. Display the "Sum of the digits"
+
+
+
+Geometry; Area of a triangle
+Stage 1.
+1. Get user to enter three points of a triangle
+2. Display area
+
+Stage 2.
+1. Get user to enter "First Point"
+2. Collect the input
+3. Store input as "x1, y1"
+4. Get user to enter "Second Point"
+5. Collect the input
+6. Store input as "x2, y2"
+7. Get user to enter "Third Point"
+8. Collect the input
+9. Store the input as "x3, y3"
+10. Calculate the side by using this formula: s = (side1 + side2 + side3) divide by 2
+11. Store the calculated value as "Side"
+12. Calculate area by subtracting s(s - side1)(s -side2)(s - side3) then take the square root of the value.
+13. Store the calculated value as "Area"
+14. Display "Area"
+
+
+
+largest and smallest integer
+ Stage one
+1. Read five integers.
+2. Determine the largest and smallest integer.
+3. Print the largest and smallest integer.
+ 
+Stage two
+1. Get user to enter first integer.
+2. Collect the first integer.
+3. Store the first integer as "integer1".
+4. Get user to enter second integer.
+5. collect the second integer.
+6. Store the second integer as "integer2".
+7. Get user to enter third integer.
+8. collect the third integer.
+9. store the third integer as "integer3".
+10. Get user to enter fourth integer.
+11. collect the fourth integer.
+12. store the fourth integer as "integer4".
+13. Get user to enter fifth integer.
+14. collect the fifth integer.
+15. store the fifth integer as "integer5".
+16. if "integer1" is greater than integer2, integer3, integer4, integer5.
+17. Display "integer1" as the largest integer.
+18. if "integer2" is greater than integer1, integer3, integer4, integer5.
+19. Display "integer2" as the largest integer.
+20. if "integer3" is greater than integer1, integer2, integer4, integer5.
+21. Display "integer3" as the largest integer.
+22. if "integer4" is greater than integer1, integer2, integer3, integer5.
+23. Display "integer4" as the largest integer.   
+24. if "integer5" is greater than integer1, integer2, integer3, integer4.
+25. Display "integer5" as the largest integer.
+26. if "integer1" is lesser than integer2, integer3, integer4, integer5.
+27. Display "integer1" as the smallest integer.
+28. if "integer2" is lesser than integer1, integer3, integer4, integer5.
+29. Display "integer2" as the smallest integer.
+30. if "integer3" is lesser than integer1, integer2, integer4, integer5.
+31. Display "integer3".
+32. if "integer4" is lesser than integer1, integer2, integer3, integer5.
+33. Display "integer4" is the smallest integer.
+34. if "integer5" is lesser than integer1, integer2, integer3, integer5.
+35. Display "integer5" as the smallest integer. 	 
