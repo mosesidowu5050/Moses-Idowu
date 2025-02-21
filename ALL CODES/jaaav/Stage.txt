@@ -1,0 +1,16 @@
+Stage
+Get user to enter beginning balance
+collect the number
+store as beginning balance
+Get user to enter charges
+collect the number
+store as charges
+Get user to enter credits 
+collect the number
+store as credit
+calculate new balance by using this formular: beginning balance + charges - credits
+store the calculated value as new balance
+if new balance is greater than customers credit limit display "Credit Limit Not Exceeded"
+else display "Credit Limit Exceeded"
+
+

@@ -1,0 +1,303 @@
+import java.util.Scanner;
+
+	public class Multiples{
+	public static void main(String[] args){
+Scanner input = new Scanner(System.in);
+System.out.printf("Integer Number: ");
+int firstNum = input.nextInt();
+
+int numInMultiple = firstNum * 3;
+System.out.print("Multiple Number: " + numInMultiple);
+
+int numInDouble = firstNum + 3;
+System.out.print("\nDouble Number: " + numInDouble);
+
+
+
+Convert Feet Into Meters
+	Stage 1
+1. Write a program
+2. Covert to meters
+3. Dislay result.
+
+	Stage 2
+1. Prompt user to enter a number in feet
+2. Collect the number
+3. Store the number in "feet".
+4. Covert the number to meter by multiplying number x 0.305
+5. Store the converted number as "meter".
+6. Display the result.
+
+
+Comparing Integers
+	Stage 1
+1. Write a program
+2. Ask user to enter integer
+3. Dislay result.
+
+	Stage 2
+1. Prompt user to enter number
+2. Collect the number
+3. Store number
+4. Calculate the square of the number
+5. Store the calculated number as 'Comparing Intergers'
+6. Display if the comparing integers square are greater than 100
+7. Display if the comparing integers are equal to 100
+8. Display if the comparing integers square are not equal to 100
+9. Display if the comparing integers are less than 100
+
+
+
+Arithmetics, Smallest and Largest
+	Stage 1
+1. Write a program
+2. Input three integers
+3. Dislay the sum, average, product, smallest and largest of the numbers.
+
+	Stage 2
+1. Prompt user to enter number
+2. Collect the numbers
+3. Store the numbers as 'Intergers'
+4. Calculate the number to give the sum of 7
+5. Store the number as 'Sum of The Value'
+6. Divide the 'Sum of The Value' to be 2
+6. Store the number as 'Average'
+7. Display result as 'Arithmetic, Smallest and Largest.
+
+
+Largest and Smallest Integers
+	Stage 1
+1. Write a program
+2. Reads five integers and determines the largest and smallest inters.
+3. Dislay result.
+
+
+	Stage 2
+1. Prompt user to enter number
+2. Collect the number
+3. Store the numbers as 'Integers'
+4. Display the smallest numbers  out of the 'Integers'
+5. Display the largest numbers out of the 'Integers'
+
+
+
+Divisible by 3
+	Stage 1
+1. Write a program
+2. Reads an integer
+3. Dislay result.
+
+	Stage 2
+1. Prompt user to enter number
+2. Collect the number
+3. Store the number as 'Integer'
+4. Let the number be divided by 3 with a remainder of 0
+5. Store the number as 'Divisible by 3'
+6. Display result.
+
+
+Multiples
+	Stage 1
+1. Write a program
+2. Reads an integer
+3. Dislay result.
+
+	Stage 2
+1. Prompt user to enter number
+2. Collect the number
+3. Store number as 'Integers'
+4. Let the first number be double 
+of the second number
+5. Display result.
+
+
+Diameter, Circumference and Area of a Circle
+	Stage 1
+1. Write a program
+2. Radius of a circle
+3. Use floating point value
+3. Dislay result.
+
+	Stage 2
+1. Prompt user to enter number
+2. Collect the number
+3. Store the number as 'floating point value'
+4. Calculate diameter by using this formula; diameter - 2 multiplied by r
+5. Let the r be the radius
+6. Store the calculated number as 'Diameter'
+7. Calculate Circumference by using this formula; 
+Circumference - 2 mutiplied by floating point value 3.14159 multiplied by radius r
+8. Store the calculated number as 'Circumference'
+9. Calculate Area by using this formula;
+area - 3.14159 Floating point value multiplied by r2
+10. Store the calculated number as 'Area'
+11. Display the Diamter, Circumfere and Area.
+
+
+Convert Pounds into Kilogram
+	Stage 1
+1. Write a program
+2. Covert pounds into kilograms
+3. Dislay result.
+
+	Stage 2
+1. Prompt user to enter a number in pounds
+2. Collect the number
+3. Store the number as Pounds
+4. Convert number to kilogram by multiplying 0.454
+5. Store the converted number as 'Kilograms'
+6. Display result in 'Kilograms'
+
+
+
+Health Application: Computing BMI
+	Stage 1
+1. Write a program
+2. Calculate by taking your weight in kilogram
+3. Divide the square of your height in meter
+3. Dislay result.
+
+	Stage 2
+1. Prompt user to enter number
+2. Collect the number
+3. Store number as 'Weight in kilogram'
+4. Prompt user to enter number
+5. Collect the number
+6. Store number as 'Height in meters'
+7. Calculate BMI by dividing Weight in kologram 0.45359237 by 
+height in meters 0.0254
+8. Store the calculated number as 'BMI'
+9. Display result.
+
+
+
+Convert square meter into ping
+	Stage 1
+1. Write a program
+2. Covert to ping
+3. Dislay result.
+
+	Stage 2
+1. Prompt user to enter a number in meter
+2. Collect the number
+3. Store the number as 'meter'
+4. Convert the number to ping by multiplying 0.3025
+5. Store the converted number in 'Ping'
+6. Display result in 'Ping'.
+
+
+Area and Perimeter of a Rectangle
+	Stage 1
+1. Write a program
+2. Display area and perimeter
+3. Dislay result.
+
+	Stage 2
+1. Prompt user to enter a number 
+2. Collect the number
+3. Store number as 'Width'
+4. Prompt user to enter a number
+5. Collect the number
+6. Store the number as 'height'
+7. Calculate area by using this formula:
+   area = 5.3 width multiplied by 8.6 height
+8. Store the calculated number in 'Area'
+9. Calculate perimeter using this formula:
+   perimeter = 2 multiplied by (5.3 width + 8.6 height)
+10. Store the calculated number in 'Perimeter'
+11. Display the Area 
+12. Display the Perimeter of a rectangle.
+
+
+
+
+
+
+
+Area and Perimeter of a Circle
+	Stage 1
+1. Write a program
+2. Display area and perimeter
+3. Dislay result.
+
+	Stage 2
+1. Prompt user to enter a number 
+2. Collect the number
+3. Store the number as 'Radius'
+4. Calculate area using ths formula:
+   area = radius x radius x n 3.14159
+5. Store the calculated number in 'Area'
+6. Calculate the perimeter using this formula:
+   perimeter = 2 x radius x n 3.14159
+7. Store the calculated number in 'Perimeter'
+8. Display Area
+9. Display Perimeter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Calculate Future Investment Value
+	Stage 1
+1. Write a program
+2. Reads in investment
+3. Dislay result.
+
+	Stage 2
+1. Prompt user to enter number 
+2. Collect the number
+3. Store the number as 'Investment Amount'
+4. Prompt user to enter number 
+5. Collect the number
+6. Store the number as 'Annual Interest Rate'
+7. Prompt user to enter number
+8. Store the number as 'Number of years'
+9. Calculate number with these formula:
+   Future Investment Value = Investment Amount 
+x (1 + Interest Rate) square of number of years.
+10. Store the calculated number as 'Futre Investment Value'
+11. Display result.
+
+
+
+
+
+
+Acceleration
+	Stage 1
+1. Write a program
+2. Starting velocity in meter
+3. Dislay result.
+
+	Stage 2
+1. Prompt user to enter number 
+2. Collect the number
+3. Store the number
+4. Let V1 be Ending Velocity in meters per seconds
+5. Let V0 be Starting Velocity in meters per seconds
+6. Let t be the time span in seconds.
+7. Calculate acceleration by using this formula:
+   a = V1 - V0 divide by t
+8. Store the calculated number as 'Acceleration'
+9. Display Acceleration 
+
+
+
+
+
+
+
+
+
+
+
+

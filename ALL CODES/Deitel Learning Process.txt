@@ -1,0 +1,22 @@
+Deitel Learning Process
+
+Chapter 3
+Learning of Constructor
+Method set and get in constructor... 
+In your method set you need to pass a parameter into your parenthesis
+to indicate what you want to set.
+
+In your method get you do not need to pass a parameter into your parenthesis
+cuz you are returning what you set.
+
+
+
+Chapter 4
+Joining Conctrcutor with Your Control Statements 
+(e.g Nested if...else, while statement, )
+
+How to use your ++ -- and other operators 
+Conditional Operator (Students >= 60 "Passed" ? : "Failed")
+Your question mark represent(True) your colon represent (False)
+Your students >= 60 is your condition statement.
+

@@ -1,0 +1,19 @@
+Get user to enter number
+collect number
+store number as miles driven 
+Get user to enter number
+collect number
+store number as gallons used
+calculate the first miles per gallon by dividing mile driven by gallon used
+store result as first miles per gallon.
+calculate the second miles per gallon by dividing mile driven by gallon used
+store result as second miles per gallon.
+calculate the third miles per gallon by dividing mile driven by gallon used
+store result as third miles per gallon.
+
+Calculate the sum of the miles per gallon by adding first miles per gallon + second miles per gallon + third miles per gallon.
+Store the calculated value as "Combined Miles Per Gallon For All Trips"
+Display combined miles per gallon for all trips.
+
+
+mpg = miles / gallon
